@@ -1,4 +1,4 @@
 ## Trabalho - Unidade II, EDB I
 
-Os prints dos testes referentes à questão 7 estão localizados na pasta de Execuções.
-No main.cpp temos a implementação dos algoritmos, além de ter os algoritmos de verificação de ordenação e o algoritmo de print do vetor (extra).
+> Pasta de Execuções: Os prints dos testes.
+> main.cpp: A implementação dos algoritmos de ordenação e verificação, além do print do vetor (extra)
